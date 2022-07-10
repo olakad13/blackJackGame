@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@500&display=swap');
+
+body {
+    text-align: center;
+    background: url(../images/table.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-weight: bold;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.header {
+    color: goldenrod;
+}
+
+p {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.buttons {
+    width: 200px;
+    height: 40px;
+    margin: 5px;
+    color: #016f32;
+    background-color: goldenrod;
+    font-weight: bold;
+    border: none;
+    font-family: 'Libre Franklin', sans-serif;
+}
